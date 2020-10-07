@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chat-Bot"
+    }
+  },
+  "defaultProject": "chat-Bot",
+  "cli": {
+    "analytics": "d196beea-a751-484e-bb28-cdfeb6d5999d"
+  }
 }
